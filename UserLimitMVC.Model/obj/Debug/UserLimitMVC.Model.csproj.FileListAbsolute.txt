@@ -1,0 +1,8 @@
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\bin\Debug\UserLimitMVC.Model.dll.config
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\bin\Debug\UserLimitMVC.Model.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\bin\Debug\UserLimitMVC.Model.pdb
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\bin\Debug\EntityFramework.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\bin\Debug\EntityFramework.xml
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\obj\Debug\UserLimitMVC.Model.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.Model\obj\Debug\UserLimitMVC.Model.pdb

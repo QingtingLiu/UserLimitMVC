@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLimitMVC.BLL", "UserLimitMVC.BLL\UserLimitMVC.BLL.csproj", "{554F4A00-ECDD-4F43-BEEB-D7CED79B35EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLimitMVC.Common", "UserLimitMVC.Common\UserLimitMVC.Common.csproj", "{471FCB9F-2492-4E00-B8C4-588EFBE6B668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLimitMVC.DAL", "UserLimitMVC.DAL\UserLimitMVC.DAL.csproj", "{A6C4939E-B244-4181-A5FC-41E0694B6798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLimitMVC.Model", "UserLimitMVC.Model\UserLimitMVC.Model.csproj", "{084CBE5F-0685-486D-BE65-805E17E5A904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLimitMVC.IDAL", "UserLimitMVC.IDAL\UserLimitMVC.IDAL.csproj", "{3BA7DE90-A3F0-4C12-A9F0-8B57980BEA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLimitMVC.UI.Portal", "UserLimitMVC.UI.Portal\UserLimitMVC.UI.Portal.csproj", "{266082E4-DCFE-4666-8F3F-E4E138961378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554F4A00-ECDD-4F43-BEEB-D7CED79B35EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554F4A00-ECDD-4F43-BEEB-D7CED79B35EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554F4A00-ECDD-4F43-BEEB-D7CED79B35EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554F4A00-ECDD-4F43-BEEB-D7CED79B35EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471FCB9F-2492-4E00-B8C4-588EFBE6B668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471FCB9F-2492-4E00-B8C4-588EFBE6B668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471FCB9F-2492-4E00-B8C4-588EFBE6B668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471FCB9F-2492-4E00-B8C4-588EFBE6B668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C4939E-B244-4181-A5FC-41E0694B6798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C4939E-B244-4181-A5FC-41E0694B6798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C4939E-B244-4181-A5FC-41E0694B6798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C4939E-B244-4181-A5FC-41E0694B6798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084CBE5F-0685-486D-BE65-805E17E5A904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084CBE5F-0685-486D-BE65-805E17E5A904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084CBE5F-0685-486D-BE65-805E17E5A904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084CBE5F-0685-486D-BE65-805E17E5A904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA7DE90-A3F0-4C12-A9F0-8B57980BEA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA7DE90-A3F0-4C12-A9F0-8B57980BEA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA7DE90-A3F0-4C12-A9F0-8B57980BEA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA7DE90-A3F0-4C12-A9F0-8B57980BEA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266082E4-DCFE-4666-8F3F-E4E138961378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266082E4-DCFE-4666-8F3F-E4E138961378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266082E4-DCFE-4666-8F3F-E4E138961378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266082E4-DCFE-4666-8F3F-E4E138961378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
