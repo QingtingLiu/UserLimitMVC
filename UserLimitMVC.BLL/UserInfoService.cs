@@ -15,11 +15,16 @@ namespace UserLimitMVC.BLL
     public class UserInfoService
     {
         //访问DAL实现CRUD
-        private IUserInfoRepository _userInfoRepository = new UserInfoRepository();
+        private IUserInfoRepository _userInfoRepository = RepositoryFactory.UserInfoRepository;
 
         public UserInfo AddUserInfo(UserInfo userInfo)
         {
             return _userInfoRepository.AddEntity(userInfo);
+        }
+
+        public bool UpdateUserInfo(UserInfo userInfo)
+        {
+            return _userInfoRepository.UpdateEntity(userInfo);
         }
     }
 }
