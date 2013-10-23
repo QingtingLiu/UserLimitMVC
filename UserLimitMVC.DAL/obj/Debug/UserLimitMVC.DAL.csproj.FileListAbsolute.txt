@@ -10,3 +10,5 @@ D:\gitHub\UserLimitMVC\UserLimitMVC.DAL\bin\Debug\EntityFramework.xml
 D:\gitHub\UserLimitMVC\UserLimitMVC.DAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\gitHub\UserLimitMVC\UserLimitMVC.DAL\obj\Debug\UserLimitMVC.DAL.dll
 D:\gitHub\UserLimitMVC\UserLimitMVC.DAL\obj\Debug\UserLimitMVC.DAL.pdb
+D:\gitHub\UserLimitMVC\UserLimitMVC.DAL\bin\Debug\UserLimitMVC.IDAL.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.DAL\bin\Debug\UserLimitMVC.IDAL.pdb

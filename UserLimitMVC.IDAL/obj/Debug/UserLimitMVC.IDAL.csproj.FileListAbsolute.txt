@@ -1,0 +1,10 @@
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\UserLimitMVC.IDAL.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\UserLimitMVC.IDAL.pdb
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\UserLimitMVC.Model.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\EntityFramework.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\UserLimitMVC.Model.pdb
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\EntityFramework.xml
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\obj\Debug\UserLimitMVC.IDAL.csprojResolveAssemblyReference.cache
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\obj\Debug\UserLimitMVC.IDAL.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.IDAL\obj\Debug\UserLimitMVC.IDAL.pdb
