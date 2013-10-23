@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UserLimitMVC.Model;
+using UserLimitMVC.IDAL;
 
 namespace UserLimitMVC.DAL
 {
-    public class UserInfoRepository : BaseRepository<UserInfo>
+    public class UserInfoRepository : BaseRepository<UserInfo>, IUserInfoRepository
     {
     }
 }

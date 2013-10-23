@@ -56,6 +56,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\UserLimitMVC.IDAL\UserLimitMVC.IDAL.csproj">
+      <Project>{3ba7de90-a3f0-4c12-a9f0-8b57980bea74}</Project>
+      <Name>UserLimitMVC.IDAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UserLimitMVC.Model\UserLimitMVC.Model.csproj">
       <Project>{084cbe5f-0685-486d-be65-805e17e5a904}</Project>
       <Name>UserLimitMVC.Model</Name>

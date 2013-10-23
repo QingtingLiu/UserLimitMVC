@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using UserLimitMVC.Model;
 
 namespace UserLimitMVC.IDAL
 {
-    class IRoleRepository
+   public interface IRoleRepository:IBaseRepository<Role>
     {
     }
 }

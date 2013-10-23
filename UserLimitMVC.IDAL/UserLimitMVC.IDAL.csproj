@@ -44,6 +44,12 @@
     <Compile Include="IUserInfoRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UserLimitMVC.Model\UserLimitMVC.Model.csproj">
+      <Project>{084cbe5f-0685-486d-be65-805e17e5a904}</Project>
+      <Name>UserLimitMVC.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
