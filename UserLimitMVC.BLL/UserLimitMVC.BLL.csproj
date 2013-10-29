@@ -50,6 +50,10 @@
       <Project>{a6c4939e-b244-4181-a5fc-41e0694b6798}</Project>
       <Name>UserLimitMVC.DAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UserLimitMVC.IBLL\UserLimitMVC.IBLL.csproj">
+      <Project>{d6b2c3f7-85ce-42d9-ac7d-cc2f6579c053}</Project>
+      <Name>UserLimitMVC.IBLL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UserLimitMVC.IDAL\UserLimitMVC.IDAL.csproj">
       <Project>{3ba7de90-a3f0-4c12-a9f0-8b57980bea74}</Project>
       <Name>UserLimitMVC.IDAL</Name>

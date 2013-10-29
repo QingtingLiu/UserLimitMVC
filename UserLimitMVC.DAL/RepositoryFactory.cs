@@ -11,7 +11,18 @@ namespace UserLimitMVC.DAL
     {
         public static IUserInfoRepository UserInfoRepository
         {
-            get { return new UserInfoRepository(); }
+            get
+            {
+                return new UserInfoRepository();
+            }
+        }
+
+        public static IRoleRepository RoleRepository
+        {
+            get
+            {
+                return new RoleRepository();
+            }
         }
     }
 }

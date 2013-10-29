@@ -11,3 +11,5 @@ D:\gitHub\UserLimitMVC\UserLimitMVC.BLL\bin\Debug\UserLimitMVC.IDAL.pdb
 D:\gitHub\UserLimitMVC\UserLimitMVC.BLL\bin\Debug\UserLimitMVC.Model.pdb
 D:\gitHub\UserLimitMVC\UserLimitMVC.BLL\bin\Debug\EntityFramework.xml
 D:\gitHub\UserLimitMVC\UserLimitMVC.BLL\obj\Debug\UserLimitMVC.BLL.csprojResolveAssemblyReference.cache
+D:\gitHub\UserLimitMVC\UserLimitMVC.BLL\bin\Debug\UserLimitMVC.IBLL.dll
+D:\gitHub\UserLimitMVC\UserLimitMVC.BLL\bin\Debug\UserLimitMVC.IBLL.pdb
